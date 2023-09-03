@@ -1,0 +1,16 @@
+.searchContent {
+	background-color: rgb(227, 126, 214);
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-bottom: 50px;
+}
+
+.table td {
+	border: 1px solid rgb(83, 23, 204);
+	padding: 10px 30px;
+}
+
+.table th {
+	border: 1px solid rgb(8, 221, 33);
+	padding: 10px 30px;
+}
